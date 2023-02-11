@@ -1,0 +1,21 @@
+linh
+123
+0 2 40 4
+phannhi
+nhi
+2 7 1070 13
+nhicute
+hello
+1 1 90 0
+Phan Nhi
+hi
+0 5 0 0
+nhi
+phan
+0 2 20 1
+yyy
+jjjj
+2 1 40 3
+A
+B
+0 0 0 0
